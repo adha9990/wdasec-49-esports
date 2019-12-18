@@ -1,0 +1,26 @@
+*{
+	font-family:"微軟正黑體";
+}
+html,body{
+	margin:0;
+	padding:0;
+}
+body{
+	display:flex;
+}
+.left{
+	width:20%;
+	min-height:100vh;
+	font-size:15px;
+	text-align:center;
+}
+.right{
+	width:80%;
+	min-height:100vh;
+	background:linear-gradient(#581F7C,#152F79);
+	
+}
+.center{
+	margin:0 auto;
+	text-align:center;
+}
